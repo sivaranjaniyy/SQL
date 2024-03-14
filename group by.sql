@@ -11,4 +11,3 @@ select students.id,name,course from students,course
 
 select course from course
 
--- Test
