@@ -1,2 +1,1 @@
-select * from students 
-order by age
+select * from cars
