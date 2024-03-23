@@ -1,1 +1,1 @@
-select * from cars
+SELECT * FROM STUDENTS
