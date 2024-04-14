@@ -1,3 +1,1 @@
-select*from cars
-
-select origin from cars
+select *from cars
