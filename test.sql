@@ -1,3 +1,3 @@
 select * from cars
 
-select cylinders DISTINCT from cars 
+select origin,cars.cylinders from cars
