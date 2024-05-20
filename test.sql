@@ -1,1 +1,1 @@
-SELECT* from cars
+select * from cars
