@@ -1,3 +1,1 @@
-select * from cars
-
-select cylinders from cars
+SELECT * FROM CARS
